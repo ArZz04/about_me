@@ -12,10 +12,15 @@ img {
     padding-right: 20px;
 }
 
+.block_menu {
+    position: absolute;
+    width: 500px;
+}
+
 .menu {
     list-style-type: none;
     position: relative;
-
+    
     top: 25px;
     left: 10px;
     text-transform: uppercase;
