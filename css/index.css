@@ -47,22 +47,25 @@ img {
 /* ----------------*/
 
 /* .wrapper{
-    background: rgb(220, 17, 17);
+    background: rgba(173, 173, 173, 0.039);
+    height: 600px;
 } */
 
 
 iframe {
     float: right;
-    padding-top: 90px;
-    padding-right: 30px;
-    padding-left: 30px;
+    padding-top: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+    transform: scale(80%);
 }
 
 /* ----------------*/
 
 .main{
 
-    padding-top: 80px;
+    padding-top: 90px;
     padding-left: 20px;
 
     top: 10px;
@@ -70,6 +73,7 @@ iframe {
     min-width: 400px;
 
     margin-right: 20px;
+
 }
 
 .MF {
@@ -77,6 +81,7 @@ iframe {
     padding-left: 10px;
     padding-top: 1px;
     padding-bottom: 1px;
+    margin-bottom: 10px;
 }
 
 .CS {
@@ -84,6 +89,7 @@ iframe {
     padding-left: 10px;
     padding-top: 1px;
     padding-bottom: 1px;
+    margin-bottom: 10px;
 }
 
 .TV {
