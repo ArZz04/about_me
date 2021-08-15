@@ -1,0 +1,88 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+* {
+    margin: 1%;
+    font-family: "Open Sans" ;
+}
+
+body {
+    background: rgb(43, 43, 43);
+    color: white;
+}
+
+div img {
+    padding-top: .5%;
+    display: inline-block;
+}
+
+nav ul a {
+    color: rgb(66, 188, 50);
+}
+
+aside li a {
+    color: teal;
+}
+
+aside {
+    padding: 1%;
+    background: rgb(35, 35, 35);
+    width: 55%;
+    border: 1px solid white;
+    position: relative;
+    top: -60px;
+    left: 18px;
+}
+
+h3 {
+    color: rgb(0, 171, 48);
+}
+
+h2 {
+    color: rgb(97, 169, 38);
+}
+
+.button {
+    background: rgb(35, 35, 35);
+    border: white 1px solid;
+    height: 40px;
+    list-style-type: none;
+    width: 310px;
+    position: relative;
+    right: -80px;
+    top: -60px;
+}
+
+.In {
+    position: relative;
+    right: 0%;
+    top: 7px;
+}
+
+.Pro{
+    position: relative;
+    right: -50px;
+    top: -13px;
+}
+
+.Smi {
+    position: relative;
+    right: -130px;
+    top: -33px;
+}
+
+.Con {
+    position: relative;
+    right: -200px;
+    top: -53px;
+}
+
+.main{
+    padding: .1%;
+    background: rgb(24, 24, 24);
+    width: 420px;
+    position: relative;
+    top: -70px;
+    right: -12px;
+}
+
+/* Que Pedo Pana Rabbit */  
