@@ -52,7 +52,7 @@ img {
 .menu li a:hover{
 	background: #ffffffc0;
     color: rgb(0, 0, 0);
-    border: rgba(2, 169, 2, 0.241) .1px solid;
+    border: rgb(183, 183, 183) .1px solid;
 
 }
 
@@ -66,7 +66,7 @@ img {
 
 iframe {
     float: right;
-    padding-top: 70px;
+    padding-top: 80px;
     padding-right: 10px;
     padding-left: 10px;
 
