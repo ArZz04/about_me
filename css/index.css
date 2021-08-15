@@ -46,14 +46,14 @@ img {
 
 /* ----------------*/
 
-/*.wrapper{
-    background: rgba(255, 255, 255, 0);
-}*/
+/* .wrapper{
+    background: rgb(220, 17, 17);
+} */
 
 
 iframe {
     float: right;
-    padding-top: 100px;
+    padding-top: 90px;
     padding-right: 30px;
     padding-left: 30px;
 }
@@ -61,6 +61,44 @@ iframe {
 /* ----------------*/
 
 .main{
+
     padding-top: 80px;
+    padding-left: 20px;
+
+    top: 10px;
+    /* max-width: 1200px; */
+    min-width: 400px;
+
+    margin-right: 20px;
+}
+
+.MF {
+    background: lightblue;
     padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.CS {
+    background:lightgreen;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.TV {
+    background: lightpink;
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+p{
+
+    max-width: 500px;
+
+}
+
+h2 {
+    width: 100px;
 }
