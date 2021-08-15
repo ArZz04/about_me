@@ -46,23 +46,21 @@ img {
 
 /* ----------------*/
 
+.wrapper{
+    background: white;
+}
+
+
+iframe {
+    float: right;
+    padding-top: 80px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+/* ----------------*/
 
 .main{
-    max-width: 600px;
-    padding-left: 0px;
-
-    position: relative;
-    top: 80px;
-
-}
-
-.MF {
-    background: rgb(73, 73, 73);
-    color: rgb(255, 255, 255);
-    
-    padding: 11px;
-}
-
-.t__t1 {
-    position: relative;
+    padding-top: 80px;
+    padding-left: 10px;
 }
