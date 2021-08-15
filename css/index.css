@@ -21,9 +21,11 @@ img {
     list-style-type: none;
     position: relative;
     
-    top: 25px;
-    left: 10px;
+    top: 35px;
+    left: -30px;
     text-transform: uppercase;
+
+    transform: scale(80%);
 }
 
 .menu a {
