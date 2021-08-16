@@ -11,9 +11,7 @@ img {
     padding-top: 3px;
     padding-left: 3px;
 
-    border-top-left-radius: 10px;
-
-    
+    border-top-left-radius: 10px;  
 }
 
 .block_menu {
@@ -23,7 +21,33 @@ img {
     border-bottom-left-radius: 10px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
+}
 
+.block_menu_p {
+    background-color: rgb(128, 201, 240);
+    
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.block_menu_am {
+    background-color: rgb(169, 128, 240);
+    
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.block_menu_c {
+    background-color: rgb(240, 128, 128);
+    
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .menu {
