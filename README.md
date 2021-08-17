@@ -1,6 +1,6 @@
 # about_me - website
-this project is a website, my first website. the funtion of this website is share the page in jobs, friends or any people this website contain my cv and biography writted by me a contact section
-
+This project is a website, my first website. the funtion of this website is share the page in jobs, friends or any people
+this website contain my cv and biography writted by me and a contact sectin
 inicio shows a phrase that simply makes you think and what I want for me in the medium and long term, as well as a spotify playlist with my favorite music
 
 proyectos show my pending and finished projects, I almost forgot, it also shows a section for my cv.
