@@ -4,6 +4,8 @@ body {
     margin: 10px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom: 30px;
+
     font-family: Open Sans;
     background: rgb(92, 92, 92);
     font-size: small;
@@ -13,31 +15,34 @@ img {
     padding-top: 3px;
     padding-left: 3px;
 
-    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;  
 }
 
 .block_menu {
     background-color: rgb(128, 240, 154);
-
+    
     border-radius: 10px;
 }
 
 .block_menu_p {
     background-color: rgb(128, 201, 240);
-
+    
     border-radius: 10px;
+
 }
 
 .block_menu_am {
     background-color: rgb(169, 128, 240);
-
+    
     border-radius: 10px;
+
 }
 
 .block_menu_c {
     background-color: rgb(240, 128, 128);
-
+    
     border-radius: 10px;
+
 }
 
 .menu {
@@ -68,7 +73,7 @@ img {
     text-decoration: none;
     border-right: #444 solid 1px;
     width: 60px;
-}
+}   
 
 /* ---------- */
 
@@ -83,7 +88,8 @@ img {
     border-radius: 10px;
 
     padding: 10px;
-    max-width: 450px;
+    width: calc(100% - 21px);
+    
 }
 
 .qq {
@@ -178,3 +184,5 @@ img {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.537);
 
 }
+
+
