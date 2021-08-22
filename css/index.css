@@ -11,6 +11,8 @@ body {
     font-size: small;
 }
 
+/* Menu */
+
 img {
     padding-top: 3px;
     padding-left: 3px;
@@ -74,7 +76,7 @@ img {
     width: 60px;
 }   
 
-/* ---------- */
+/* ----[ Main ]----- */
 
 .main_section {
 
