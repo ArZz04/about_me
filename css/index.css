@@ -79,7 +79,7 @@ img {
 .main_section {
 
     background: rgb(69, 69, 69);
-    color: rgba(223, 223, 223, 0);
+    color: rgba(223, 223, 223);
     box-shadow: 0px 0px 20px rgb(0, 0, 0);
     border-radius: 10px;
     padding: 10px;
