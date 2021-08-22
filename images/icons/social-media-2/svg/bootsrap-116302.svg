@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M21,1H3C1.897,1,1,1.897,1,3v18c0,1.103,0.897,2,2,2h18c1.103,0,2-0.897,2-2V3   C23,1.897,22.103,1,21,1z"/>
+	<path style="fill:#7C4DFF;" d="M22,21c0,0.552-0.449,1-1,1H3c-0.551,0-1-0.448-1-1V3c0-0.552,0.449-1,1-1h18c0.551,0,1,0.448,1,1   V21z"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M2.5,21.5v-18c0-0.552,0.449-1,1-1h18c0.146,0,0.283,0.035,0.408,0.092   C21.751,2.245,21.405,2,21,2H3C2.449,2,2,2.448,2,3v18c0,0.405,0.245,0.751,0.592,0.908C2.535,21.783,2.5,21.646,2.5,21.5z"/>
+	<path style="fill:#303C42;" d="M15.57,11.321C16.437,10.684,17,9.656,17,8.5C17,6.57,15.43,5,13.5,5h-6C7.224,5,7,5.224,7,5.5v13   C7,18.776,7.224,19,7.5,19H14c2.206,0,4-1.794,4-4C18,13.352,16.997,11.933,15.57,11.321z M8,6h5.5C14.878,6,16,7.121,16,8.5   S14.878,11,13.5,11H8V6z M14,18H8v-6h6c1.654,0,3,1.346,3,3S15.654,18,14,18z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-0.6522" y1="6.1002" x2="24.6523" y2="17.8998">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M21,1H3C1.897,1,1,1.897,1,3v18c0,1.103,0.897,2,2,2h18c1.103,0,2-0.897,2-2V3   C23,1.897,22.103,1,21,1z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; bootsrap" dc:description="social; media; social media; logo; bootsrap" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

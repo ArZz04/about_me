@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M23.5,0h-21C2.311,0,2.138,0.107,2.053,0.276l-2,4C0.019,4.346,0,4.422,0,4.5v16   C0,20.776,0.224,21,0.5,21H6v2.5C6,23.776,6.224,24,6.5,24h2c0.133,0,0.26-0.053,0.354-0.146L11.707,21H17.5   c0.133,0,0.26-0.053,0.354-0.146l6-6C23.947,14.76,24,14.633,24,14.5v-14C24,0.224,23.776,0,23.5,0z"/>
+	<path style="fill:#D500F9;" d="M23,14.293L17.293,20H11.5c-0.133,0-0.26,0.053-0.354,0.146L8.293,23H7v-2.5   C7,20.224,6.776,20,6.5,20H1V4.618L2.809,1H23V14.293z"/>
+	<path style="opacity:0.1;" d="M22.5,1v12.793L16.793,19.5H11c-0.133,0-0.26,0.053-0.354,0.146L7.793,22.5H7V23h1.293l2.854-2.854   C11.24,20.053,11.367,20,11.5,20h5.793L23,14.293V1H22.5z"/>
+	<polygon style="opacity:0.2;fill:#FFFFFF;" points="3.309,1 2.809,1 1,4.618 1,20 1.5,20 1.5,4.618  "/>
+	<path style="fill:#303C42;" d="M3.5,18H8v2.5c0,0.202,0.122,0.385,0.309,0.462C8.37,20.988,8.436,21,8.5,21   c0.13,0,0.258-0.051,0.354-0.146L11.707,18H17.5c0.133,0,0.26-0.053,0.354-0.146l4-4C21.947,13.76,22,13.633,22,13.5v-11   C22,2.224,21.776,2,21.5,2h-18C3.224,2,3,2.224,3,2.5v15C3,17.776,3.224,18,3.5,18z"/>
+	<path style="fill:#FFFFFF;" d="M4,3h17v10.293L17.293,17H11.5c-0.133,0-0.26,0.053-0.354,0.146L9,19.293V17.5   C9,17.224,8.776,17,8.5,17H4V3z"/>
+	<path style="fill:#303C42;" d="M9.5,13c0.276,0,0.5-0.224,0.5-0.5v-6C10,6.224,9.776,6,9.5,6S9,6.224,9,6.5v6   C9,12.776,9.224,13,9.5,13z"/>
+	<path style="fill:#303C42;" d="M15.5,13c0.276,0,0.5-0.224,0.5-0.5v-6C16,6.224,15.776,6,15.5,6S15,6.224,15,6.5v6   C15,12.776,15.224,13,15.5,13z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-0.236" y1="4.8953" x2="23.3926" y2="15.9135">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M23.5,0h-21C2.311,0,2.138,0.107,2.053,0.276l-2,4C0.019,4.346,0,4.422,0,4.5v16   C0,20.776,0.224,21,0.5,21H6v2.5C6,23.776,6.224,24,6.5,24h2c0.133,0,0.26-0.053,0.354-0.146L11.707,21H17.5   c0.133,0,0.26-0.053,0.354-0.146l6-6C23.947,14.76,24,14.633,24,14.5v-14C24,0.224,23.776,0,23.5,0z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; twitch" dc:description="social; media; social media; logo; twitch" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

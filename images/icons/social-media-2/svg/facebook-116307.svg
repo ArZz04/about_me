@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M21,1H3C1.897,1,1,1.897,1,3v18c0,1.103,0.897,2,2,2h8.5c0.276,0,0.5-0.224,0.5-0.5v-8   c0-0.276-0.224-0.5-0.5-0.5h-1.479v-2H11.5c0.276,0,0.5-0.224,0.5-0.5v-2C12,7.57,13.57,6,15.5,6H18v2h-2.5   C14.673,8,14,8.673,14,9.5v2c0,0.276,0.224,0.5,0.5,0.5h3.41l-0.333,2H14.5c-0.276,0-0.5,0.224-0.5,0.5v8   c0,0.276,0.224,0.5,0.5,0.5H21c1.103,0,2-0.897,2-2V3C23,1.897,22.103,1,21,1z"/>
+	<path style="fill:#5262BC;" d="M22,21c0,0.551-0.449,1-1,1h-6v-7h3c0.245,0,0.453-0.177,0.493-0.418l0.5-3   c0.024-0.145-0.017-0.293-0.112-0.405C18.787,11.064,18.647,11,18.5,11H15V9.5C15,9.224,15.224,9,15.5,9h3   C18.776,9,19,8.776,19,8.5v-3C19,5.224,18.776,5,18.5,5h-3C13.019,5,11,7.019,11,9.5V11H9.521c-0.276,0-0.5,0.224-0.5,0.5v3   c0,0.276,0.224,0.5,0.5,0.5H11v7H3c-0.551,0-1-0.449-1-1V3c0-0.551,0.449-1,1-1h18c0.551,0,1,0.449,1,1V21z"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M2.5,21.5v-18c0-0.551,0.449-1,1-1h18c0.146,0,0.283,0.035,0.408,0.092   C21.751,2.245,21.405,2,21,2H3C2.449,2,2,2.449,2,3v18c0,0.405,0.245,0.751,0.592,0.908C2.535,21.783,2.5,21.646,2.5,21.5z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="13.6885" y1="10.3371" x2="23.3824" y2="20.0311">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M9.253,14.912L11,16.658V15H9.521C9.42,15,9.332,14.963,9.253,14.912z M18.864,5.162   L18.864,5.162C18.947,5.251,19,5.368,19,5.5v3C19,8.776,18.776,9,18.5,9h-3C15.224,9,15,9.224,15,9.5V11h3.5   c0.147,0,0.287,0.064,0.381,0.177c0.095,0.112,0.136,0.26,0.112,0.405l-0.5,3C18.453,14.823,18.245,15,18,15h-3v7h1.342H21   c0.551,0,1-0.449,1-1V8.297L18.864,5.162z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-0.6523" y1="6.1001" x2="24.6523" y2="17.8999">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M21,1H3C1.897,1,1,1.897,1,3v18c0,1.103,0.897,2,2,2h8.5c0.276,0,0.5-0.224,0.5-0.5v-8   c0-0.276-0.224-0.5-0.5-0.5h-1.479v-2H11.5c0.276,0,0.5-0.224,0.5-0.5v-2C12,7.57,13.57,6,15.5,6H18v2h-2.5   C14.673,8,14,8.673,14,9.5v2c0,0.276,0.224,0.5,0.5,0.5h3.41l-0.333,2H14.5c-0.276,0-0.5,0.224-0.5,0.5v8   c0,0.276,0.224,0.5,0.5,0.5H21c1.103,0,2-0.897,2-2V3C23,1.897,22.103,1,21,1z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; facebook" dc:description="social; media; social media; logo; facebook" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

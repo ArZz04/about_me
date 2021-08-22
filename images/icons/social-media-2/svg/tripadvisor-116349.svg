@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M22.954,9.621c0.247-0.96,0.923-1.793,0.93-1.802c0.124-0.149,0.15-0.357,0.068-0.532   S23.694,7,23.5,7h-3.757C17.384,5.695,14.692,5,12,5C9.308,5,6.615,5.695,4.257,7H0.5C0.306,7,0.129,7.112,0.047,7.288   C-0.035,7.464-0.008,7.671,0.116,7.82c0.007,0.009,0.683,0.835,0.93,1.801C0.387,10.584,0,11.747,0,13c0,3.309,2.691,6,6,6   c1.785,0,3.385-0.787,4.485-2.028l1.088,1.788C11.664,18.909,11.826,19,12,19s0.336-0.091,0.427-0.24l1.088-1.788   C14.615,18.213,16.215,19,18,19c3.309,0,6-2.691,6-6C24,11.748,23.613,10.584,22.954,9.621z"/>
+	<circle style="fill:#FFFFFF;" cx="6" cy="13" r="5"/>
+	<circle style="fill:#FFFFFF;" cx="18" cy="13" r="5"/>
+	<circle style="fill:#303C42;" cx="6" cy="13" r="3"/>
+	<circle style="fill:#FFFFFF;" cx="6" cy="13" r="2"/>
+	<circle style="fill:#303C42;" cx="18" cy="13" r="3"/>
+	<circle style="fill:#FFFFFF;" cx="18" cy="13" r="2"/>
+	<circle style="fill:#E53935;" cx="6" cy="13" r="1"/>
+	<circle style="fill:#7CB342;" cx="18" cy="13" r="1"/>
+	<path style="fill:#303C42;" d="M22.201,8.723C21.928,8.455,21.63,8.213,21.31,8h1.249C22.436,8.211,22.311,8.458,22.201,8.723z"/>
+	<path style="fill:#303C42;" d="M2.69,8C2.37,8.213,2.072,8.455,1.799,8.723C1.689,8.458,1.564,8.211,1.442,8H2.69z"/>
+	<path style="fill:#FFE082;" d="M12,17.538l0.874-1.436C12.323,15.196,12,14.136,12,13c0,1.136-0.323,2.196-0.874,3.102L12,17.538z"/>
+	<path style="fill:#FFE082;" d="M17.431,7.029c-3.456-1.317-7.406-1.317-10.862,0C9.611,7.317,12,9.883,12,13   C12,9.883,14.388,7.317,17.431,7.029z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.3767" y1="6.5818" x2="22.7483" y2="17.0139">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M22.954,9.621c0.247-0.96,0.923-1.793,0.93-1.802c0.124-0.149,0.15-0.357,0.068-0.532   S23.694,7,23.5,7h-3.757C17.384,5.695,14.692,5,12,5C9.308,5,6.615,5.695,4.257,7H0.5C0.306,7,0.129,7.112,0.047,7.288   C-0.035,7.464-0.008,7.671,0.116,7.82c0.007,0.009,0.683,0.835,0.93,1.801C0.387,10.584,0,11.747,0,13c0,3.309,2.691,6,6,6   c1.785,0,3.385-0.787,4.485-2.028l1.088,1.788C11.664,18.909,11.826,19,12,19s0.336-0.091,0.427-0.24l1.088-1.788   C14.615,18.213,16.215,19,18,19c3.309,0,6-2.691,6-6C24,11.748,23.613,10.584,22.954,9.621z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; tripadvisor" dc:description="social; media; social media; logo; tripadvisor" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

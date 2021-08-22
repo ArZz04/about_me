@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12" y1="1" x2="12" y2="23">
+		<stop offset="0" style="stop-color:#F6744B"/>
+		<stop offset="1" style="stop-color:#FF2E57"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M12,23C5.935,23,1,18.065,1,12S5.935,1,12,1s11,4.935,11,11S18.065,23,12,23z"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M1.5,12.5c0-6.065,4.935-11,11-11c2.906,0,5.544,1.141,7.513,2.987   C18.004,2.347,15.16,1,12,1C5.935,1,1,5.935,1,12c0,3.16,1.347,6.004,3.487,8.013C2.641,18.044,1.5,15.406,1.5,12.5z"/>
+	<path style="fill:#FFFFFF;" d="M16.429,5.004l-7,1.001C9.183,6.04,9,6.251,9,6.5v7.955c0,0.359-0.258,0.664-0.612,0.724   l-0.94,0.156C6.609,15.476,6,16.194,6,17.045c0,0.51,0.223,0.992,0.612,1.321c0.316,0.268,0.712,0.411,1.12,0.411   c0.095,0,0.19-0.008,0.286-0.023l0.535-0.089C9.391,18.524,10,17.806,10,16.955v-2.454c0-0.005,0-0.011,0-0.016   c0-0.011,0-0.021,0-0.03V9.434l6-0.858v4.879c0,0.359-0.257,0.664-0.612,0.723l-0.94,0.156C13.609,14.475,13,15.193,13,16.044   c0,0.51,0.223,0.992,0.612,1.321s0.9,0.469,1.405,0.388l0.534-0.089C16.391,17.525,17,16.807,17,15.955V13.5   c0-0.005,0-0.011,0-0.016c0-0.01,0-0.02,0-0.029V5.499c0-0.145-0.063-0.283-0.172-0.378S16.573,4.986,16.429,5.004z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="9.7055" y1="9.7283" x2="19.7631" y2="19.7859">
+		<stop offset="0" style="stop-color:#000000;stop-opacity:0.1"/>
+		<stop offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_2_);" d="M22.962,11.256l-6.135-6.135C16.937,5.216,17,5.354,17,5.499v7.956c0,0.01,0,0.02,0,0.029   c0,0.005,0,0.011,0,0.016v2.455c0,0.852-0.609,1.57-1.448,1.709l-0.534,0.089c-0.505,0.081-1.016-0.059-1.405-0.388   S13,16.554,13,16.044c0-0.851,0.609-1.569,1.448-1.71l0.94-0.156C15.743,14.119,16,13.814,16,13.455V8.576l-6,0.858v5.021   c0,0.01,0,0.02,0,0.03c0,0.005,0,0.011,0,0.016v2.454c0,0.851-0.609,1.569-1.448,1.71l-0.535,0.089   c-0.095,0.016-0.191,0.023-0.286,0.023c-0.407,0-0.804-0.144-1.12-0.411l4.594,4.594C11.469,22.979,11.732,23,12,23   c6.065,0,11-4.935,11-11C23,11.749,22.979,11.503,22.962,11.256z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1.1248" y1="6.9288" x2="22.8752" y2="17.0712">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_3_);" d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; itunes" dc:description="social; media; social media; logo; itunes" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>

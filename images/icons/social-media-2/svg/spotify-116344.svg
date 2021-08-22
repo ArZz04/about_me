@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<g>
+	<path style="fill:#303C42;" d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z"/>
+	<path style="fill:#69F0AE;" d="M12,23C5.935,23,1,18.065,1,12S5.935,1,12,1s11,4.935,11,11S18.065,23,12,23z"/>
+	<path style="opacity:0.1;" d="M19.382,3.868c1.776,1.954,2.868,4.539,2.868,7.382c0,6.065-4.935,11-11,11   c-2.842,0-5.427-1.093-7.382-2.868C5.882,21.598,8.777,23,12,23c6.065,0,11-4.935,11-11C23,8.777,21.598,5.882,19.382,3.868z"/>
+	<path style="opacity:0.2;fill:#FFFFFF;" d="M1.75,12.75c0-6.065,4.935-11,11-11c2.842,0,5.427,1.093,7.382,2.868   C18.118,2.402,15.223,1,12,1C5.935,1,1,5.935,1,12c0,3.223,1.402,6.118,3.618,8.132C2.843,18.177,1.75,15.592,1.75,12.75z"/>
+	<path style="fill:#303C42;" d="M5.382,15.014c-0.269,0.065-0.433,0.336-0.367,0.604c0.065,0.268,0.34,0.434,0.604,0.367   c3.352-0.817,8.081-0.695,11.095,1.423C16.8,17.471,16.9,17.5,17,17.5c0.157,0,0.312-0.074,0.409-0.212   c0.158-0.226,0.104-0.538-0.122-0.697C14.019,14.294,8.952,14.144,5.382,15.014z"/>
+	<path style="fill:#303C42;" d="M4.913,11.508c-0.272,0.048-0.453,0.308-0.405,0.579c0.048,0.272,0.311,0.453,0.579,0.405   c5.804-1.025,9.85-0.435,13.121,1.914c0.089,0.063,0.19,0.094,0.292,0.094c0.155,0,0.309-0.072,0.406-0.208   c0.161-0.224,0.109-0.537-0.114-0.698C15.281,11.075,11.002,10.43,4.913,11.508z"/>
+	<path style="fill:#303C42;" d="M20.281,9.586C15.706,6.48,8.796,6.451,4.333,8.029c-0.26,0.092-0.396,0.377-0.305,0.638   c0.093,0.261,0.376,0.395,0.639,0.305c4.225-1.493,10.754-1.477,15.052,1.442C19.805,10.472,19.903,10.5,20,10.5   c0.159,0,0.317-0.077,0.414-0.219C20.568,10.052,20.51,9.742,20.281,9.586z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.1249" y1="6.9288" x2="22.8751" y2="17.0712">
+		<stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+		<stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path style="fill:url(#SVGID_1_);" d="M12,0C5.383,0,0,5.383,0,12s5.383,12,12,12s12-5.383,12-12S18.617,0,12,0z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+
+	<metadata>
+		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+			<rdf:Description about="https://iconscout.com/legal#licenses" dc:title="social; media; social media; logo; spotify" dc:description="social; media; social media; logo; spotify" dc:publisher="Iconscout" dc:date="2017-03-22" dc:format="image/svg+xml" dc:language="en">
+				<dc:creator>
+					<rdf:Bag>
+						<rdf:li>Alpár - Etele Méder</rdf:li>
+					</rdf:Bag>
+				</dc:creator>
+			</rdf:Description>
+		</rdf:RDF>
+    </metadata></svg>
