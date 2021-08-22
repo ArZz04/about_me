@@ -5,6 +5,7 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     margin-bottom: 30px;
+
     font-family: Open Sans;
     background: rgb(92, 92, 92);
     font-size: small;
@@ -13,28 +14,35 @@ body {
 img {
     padding-top: 3px;
     padding-left: 3px;
+
     border-top-left-radius: 10px;  
 }
 
 .block_menu {
     background-color: rgb(128, 240, 154);
+    
     border-radius: 10px;
 }
 
 .block_menu_p {
     background-color: rgb(128, 201, 240);
+    
     border-radius: 10px;
 
 }
 
 .block_menu_am {
-    background-color: rgb(169, 128, 240);    
+    background-color: rgb(169, 128, 240);
+    
     border-radius: 10px;
+
 }
 
 .block_menu_c {
     background-color: rgb(240, 128, 128);
+    
     border-radius: 10px;
+
 }
 
 .menu {
@@ -44,9 +52,11 @@ img {
     overflow: hidden;
     background-color: #333;
     /* border-bottom: rgb(128, 240, 154) solid 1px; */
+
     box-shadow: 0px 1px 10px rgb(0, 0, 0);
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+
 }
 
 .menu li {
@@ -67,11 +77,13 @@ img {
 /* ---------- */
 
 .main_section {
+
     background: rgb(69, 69, 69);
     color: rgb(223, 223, 223);
     box-shadow: 0px 0px 20px rgb(0, 0, 0);
     border-radius: 10px;
     padding: 10px;
+    padding-bottom: 0px;
     width: calc(100% - 21px);
 }
 
@@ -130,7 +142,7 @@ img {
 }
 
 .spotify {
-    transform: scale(90%);
+    transform: scale(95%);
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.496);
 }
 
