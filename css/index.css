@@ -152,6 +152,18 @@ img {
 
 /* ---[ Contact ]--- */
 
+.main_section_co {
+
+    background: rgb(69, 69, 69);
+    color: rgba(223, 223, 223);
+    box-shadow: 0px 0px 20px rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 10px;
+    padding-bottom: 0px;
+    width: calc(100% - 21px);
+    height: 350px;
+}
+
 .list_social{
    list-style: none;
    display: block;
@@ -162,6 +174,8 @@ img {
 
 .list_social div img{
     width: 30px;
+    margin-left: 5px;
+    margin-top: 5px;
 }
 
 .list_social a{
@@ -170,12 +184,16 @@ img {
 
 .list_social li{
     display: block;
-    background: violet;
+    background: rgb(66, 66, 66);
     margin: 10px;
+    height: 47px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(0, 0, 0, 0.4);
 }
 
 .list_social a span{
-    position: absolute;
+    position: relative;
     padding-left: 45px;
-    color: white;
+    bottom: 20px;
+    color: rgb(243, 243, 243);
 }
