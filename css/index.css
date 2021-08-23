@@ -75,7 +75,7 @@ img {
     box-shadow: 0px 0px 20px rgb(0, 0, 0);
     border-radius: 10px;
     padding: 10px;
-    padding-bottom: 0px;
+    padding-bottom: 10px;
     width: calc(100% - 21px);
 }
 
@@ -136,8 +136,10 @@ img {
 }
 
 .spotify {
+    position: relative;
     transform: scale(95%);
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.496);
+    top: 6px;
 }
 
 .foot_info {
@@ -152,19 +154,7 @@ img {
 
 /* ---[ Contact ]--- */
 
-.main_section_co {
-
-    background: rgb(69, 69, 69);
-    color: rgba(223, 223, 223);
-    box-shadow: 0px 0px 20px rgb(0, 0, 0);
-    border-radius: 10px;
-    padding: 10px;
-    padding-bottom: 0px;
-    width: calc(100% - 21px);
-    height: 350px;
-}
-
-.list_social{
+.list_social, .social_x{
    list-style: none;
    display: block;
    background: rgb(55, 55, 55);
@@ -172,9 +162,9 @@ img {
    border-radius: 20px;
 }
 
-.list_social div img{
+.main_section div img{
     width: 30px;
-    margin-left: 5px;
+    margin-left: 10px;
     margin-top: 5px;
 }
 
@@ -193,7 +183,18 @@ img {
 
 .list_social a span{
     position: relative;
-    padding-left: 45px;
-    bottom: 20px;
+    padding-left: 55px;
+    bottom: 25px;
     color: rgb(243, 243, 243);
+}
+
+.title{
+    width: 160px;
+    position: relative;
+    left: 110px;
+}
+
+.list_social h2 {
+    text-align: center;
+    padding: 13px;
 }
