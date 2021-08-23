@@ -68,14 +68,13 @@ img {
 
 /* -----[ Main ]----- */
 
-.main_section {
-
+.main_section, .main_section_c {
     background: rgb(69, 69, 69);
     color: rgba(223, 223, 223);
     box-shadow: 0px 0px 20px rgb(0, 0, 0);
     border-radius: 10px;
     padding: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 65px;
     width: calc(100% - 21px);
 }
 
@@ -137,9 +136,10 @@ img {
 
 .spotify {
     position: relative;
-    transform: scale(95%);
+    transform: scale(99%);
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.496);
-    top: 6px;
+    top: 20px;
+    height: 50px;
 }
 
 .foot_info {
@@ -154,12 +154,29 @@ img {
 
 /* ---[ Contact ]--- */
 
-.list_social, .social_xtra{
+ul .list_social, .social_xtra{
+    float: right;
+}
+
+.list_social{
    list-style: none;
    display: block;
    background: rgb(55, 55, 55);
    padding: 15px;
    border-radius: 20px;
+   width: 48%;
+}
+
+.social_xtra{
+    list-style: none;
+    display: block;
+    background: rgb(55, 55, 55);
+    padding: 15px;
+    margin-top: 18px;
+    border-radius: 20px;
+    position: relative;
+    bottom: 410px;
+    width: 48%;
 }
 
 .main_section div img{
@@ -168,11 +185,7 @@ img {
     margin-top: 5px;
 }
 
-.list_social a{
-    text-decoration: none;
-}
-
-.social_xtra a{
+.list_social a, .social_xtra a{
     text-decoration: none;
 }
 
@@ -209,9 +222,9 @@ img {
 }
 
 .title{
-    width: 150px;
+    width: 200px;
     position: relative;
-    left: 500px;
+    left: 30%;
     font-size: xx-small;
 }
 
@@ -220,34 +233,66 @@ img {
     padding: 15px;
 }
 
-@media screen and (max-width: 900px) {
-
-    .title{
-        transition: all 600ms;
-        width: 150px;
-        position: relative;
-        left: 320px;
-        font-size: xx-small;
-    }
-
-    .list_social h2, .social_xtra h2 {
-        text-align: center;
-        padding: 15px;
+@media screen and (max-width: 1700px){
+    .list_social, .social_xtra{
+        transition: all 1000ms;
+        width: calc(100% - 55%);
     }
 }
 
-@media screen and (max-width: 600px) {
-
+@media screen and (max-width: 1000px) {
     .title{
-        transition: all 600ms;
-        width: 150px;
-        position: relative;
-        left: 120px;
-        font-size: xx-small;
+        left: 20%;
+        transition: all 1000ms;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .title{
+        left: 15%;
+        transition: all 1000ms;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+    .list_social, .social_xtra{
+        transition: all 1000ms;
+        width: 93%;
     }
 
-    .list_social h2, .social_xtra h2 {
-        text-align: center;
+    ul .list_social, .social_xtra{
+        float: none;
+        transition: all 1000ms;
+    }
+
+    .list_social{
+       list-style: none;
+       display: block;
+       background: rgb(55, 55, 55);
+       padding: 15px;
+       border-radius: 20px;
+    }
+    
+    .social_xtra{
+        list-style: none;
+        display: block;
+        background: rgb(55, 55, 55);
         padding: 15px;
+        margin-top: 18px;
+        border-radius: 20px;
+        position: unset;
+        transition: all 1000ms;
+    }
+    
+    .title {
+        left: 25%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .title{
+        left: 20%;
+        transition: all 1000ms;
     }
 }
