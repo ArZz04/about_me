@@ -68,7 +68,7 @@ img {
 
 /* -----[ Main ]----- */
 
-.main_section, .main_section_c {
+.main_section{
     background: rgb(69, 69, 69);
     color: rgba(223, 223, 223);
     box-shadow: 0px 0px 20px rgb(0, 0, 0);
@@ -255,6 +255,14 @@ ul .list_social, .social_xtra{
 }
 
 @media screen and (max-width: 750px) {
+
+    .main_section{
+        padding-bottom: 10px;
+    }
+    .spotify{
+        transform: scale(70%);
+        top: -3px;
+    }
 
     .list_social, .social_xtra{
         transition: all 1000ms;
