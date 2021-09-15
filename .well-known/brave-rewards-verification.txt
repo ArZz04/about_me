@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: arzz04.me
-Token: ba67aa2a68078f498e6ab7c8325e0861fc1360d2f93efa454c71f0a6f4b31cce
