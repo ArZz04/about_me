@@ -81,6 +81,7 @@ img {
 /* ---[ index ]--- */
 
 .qq {
+    opacity: 0;
     background: rgb(57, 57, 57);
     text-align: center;
     height: 30px;
@@ -90,6 +91,7 @@ img {
 }
 
 .t_mf {
+    opacity: 0;
     background: rgb(101, 101, 101);
     padding: 10px;
     border-radius: 10px;
@@ -105,12 +107,14 @@ img {
 }
 
 .t_cs {
+    opacity: 0;
     background: rgb(101, 101, 101);
     padding: 10px;
     border-radius: 10px;
 }
 
 .pe {
+    opacity: 0;
     background: rgb(57, 57, 57);
     text-align: center;
     height: 30px;
@@ -120,6 +124,7 @@ img {
 }
 
 .t_tv {
+    opacity: 0;
     background: rgb(101, 101, 101);
     padding: 10px;
     border-radius: 10px;
