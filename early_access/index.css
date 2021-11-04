@@ -8,6 +8,10 @@
     --wave-color: #191414
 }
 
+html{
+    background-color: #191414;
+}
+
 p{
     color: white;
 }
@@ -36,11 +40,11 @@ main{
 
 .hero{
     height: 100vh;
-    background-image: var(--backgroud), url("JAJAJA.svg");
+    background-image: var(--backgroud), url("IMG_20210731_212612.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: bottom;
+    background-position: center;
     position: relative;
 }
 
