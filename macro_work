@@ -1,0 +1,26 @@
+Sub GUARDAR()
+'
+' Macro1 Macro
+'
+Dim name As String
+Dim fnow As Date
+Dim hnow As Date
+Dim rnow As String
+Dim day_now As Date
+Dim month_now As Date
+Dim year_now As Date
+
+fnow = Date
+hnow = Now
+
+day_now = Day(fnow)
+
+rnow = "Bari_" & Day(fnow) & "_" & Month(fnow) & "_" & Year(fnow) & "_" & Hour(hnow) & "-" & Minute(hnow) & "-" & Second(hnow)
+
+name = rnow
+
+   ChDir "C:\Users\Arviz\Desktop"
+    ActiveWorkbook.SaveAs Filename:="C:\Users\Arviz\Desktop\" & name & ".xlsm", _
+        FileFormat:=xlOpenXMLWorkbookMacroEnabled, CreateBackup:=False
+
+End Sub
