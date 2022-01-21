@@ -40,7 +40,7 @@ main{
 
 .hero{
     height: 100vh;
-    background-image: var(--backgroud), url(../images/IMG_20210731_212612.jpg);
+    background-image: var(--backgroud), url("../images/main_bg.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
